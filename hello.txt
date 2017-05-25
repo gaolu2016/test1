@@ -6,3 +6,4 @@ dev one
 dev two
 master four
 feature one
+feature two
